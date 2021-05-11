@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\f761219bc55ff73c5f9e9e7820d4122a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\7d67a8c18d88cf4733e14515a3a6434e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\2e7c2ff58de79c970231eb1a78c70d1a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\9f775259fa4ce5e088a2a74a7a9e3921\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\b8e8a284bac3636bda3c0b4e93642384\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\aaf6f1de4a8ef9e4e97c30abde151e0c\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\24b01ec477a4460621f783482c129e17\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\6fd9a7bc8274af2dd3e2a55a3bf1eb1f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\f125fc529577a5143d9f5761a0b65e57\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\11a38cf48b71411bab22a684ff254f78\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\1a1b13d7608da7d941649d849b7c67cb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\a2fa95859b1220c3b19e5516edc91e78\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\526adc4364362d56900726ec7fcb94f6\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\app_dev\BMI-Calculator\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\app_dev\BMI-Calculator\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\app_dev\BMI-Calculator\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:2:5-38
+		INJECTED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\app_dev\BMI-Calculator\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from D:\app_dev\BMI-Calculator\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from D:\app_dev\BMI-Calculator\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:9:5-32:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\aaf6f1de4a8ef9e4e97c30abde151e0c\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\aaf6f1de4a8ef9e4e97c30abde151e0c\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\a2fa95859b1220c3b19e5516edc91e78\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\a2fa95859b1220c3b19e5516edc91e78\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\aaf6f1de4a8ef9e4e97c30abde151e0c\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:11:9-39
+	android:icon
+		ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:10:9-57
+activity#com.example.hello_world.MainActivity
+ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\f761219bc55ff73c5f9e9e7820d4122a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\f761219bc55ff73c5f9e9e7820d4122a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\7d67a8c18d88cf4733e14515a3a6434e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\7d67a8c18d88cf4733e14515a3a6434e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\2e7c2ff58de79c970231eb1a78c70d1a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\2e7c2ff58de79c970231eb1a78c70d1a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\9f775259fa4ce5e088a2a74a7a9e3921\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\9f775259fa4ce5e088a2a74a7a9e3921\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\b8e8a284bac3636bda3c0b4e93642384\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\b8e8a284bac3636bda3c0b4e93642384\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\aaf6f1de4a8ef9e4e97c30abde151e0c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\aaf6f1de4a8ef9e4e97c30abde151e0c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\24b01ec477a4460621f783482c129e17\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\24b01ec477a4460621f783482c129e17\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\6fd9a7bc8274af2dd3e2a55a3bf1eb1f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\6fd9a7bc8274af2dd3e2a55a3bf1eb1f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\f125fc529577a5143d9f5761a0b65e57\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\f125fc529577a5143d9f5761a0b65e57\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\11a38cf48b71411bab22a684ff254f78\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\11a38cf48b71411bab22a684ff254f78\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\1a1b13d7608da7d941649d849b7c67cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\1a1b13d7608da7d941649d849b7c67cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\a2fa95859b1220c3b19e5516edc91e78\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\a2fa95859b1220c3b19e5516edc91e78\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\526adc4364362d56900726ec7fcb94f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\STRIX\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\526adc4364362d56900726ec7fcb94f6\AndroidManifest.xml:20:5-44
+INJECTED from D:\app_dev\BMI-Calculator\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\app_dev\BMI-Calculator\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\app_dev\BMI-Calculator\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\app_dev\BMI-Calculator\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\app_dev\BMI-Calculator\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\app_dev\BMI-Calculator\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from D:\app_dev\BMI-Calculator\android\app\src\debug\AndroidManifest.xml:6:22-64
