@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="859cb5ba-5e80-49ff-9d74-1326252be1a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3a_API_29" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\New folder\BMI-Calculator\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i9osU9moiWY4N5JNhPwA5HtNUW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="859cb5ba-5e80-49ff-9d74-1326252be1a2" name="Default Changelist" comment="" />
+      <created>1601329375021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601329375021</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="286" y="144" key="#PSD" timestamp="1612212908293">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="286" y="144" key="#PSD/0.0.1536.824@0.0.1536.824" timestamp="1612212908293" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1612210494269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1612210494269" />
+    <state width="1019" height="188" key="GridCell.Tab.0.bottom" timestamp="1620817008958">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1019" height="188" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620817008958" />
+    <state width="1019" height="188" key="GridCell.Tab.0.center" timestamp="1620817008958">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1019" height="188" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620817008958" />
+    <state width="1019" height="188" key="GridCell.Tab.0.left" timestamp="1620817008958">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1019" height="188" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620817008958" />
+    <state width="1019" height="188" key="GridCell.Tab.0.right" timestamp="1620817008958">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1019" height="188" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620817008958" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1612960087411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1612960087411" />
+    <state x="93" y="93" width="1350" height="638" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1620756030833">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.824@0.0.1536.824" timestamp="1620756030833" />
+    <state x="689" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1620755990020">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="689" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1620755990020" />
+  </component>
+</project>
